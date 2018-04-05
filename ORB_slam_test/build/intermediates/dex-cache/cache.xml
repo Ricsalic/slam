@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\SLAM_Andriod\ORB_slam_test\openCVLibrary249\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf25ccfe4c584a27b90d9443532cc37f4d07e412">
+        <dex dex="E:\SLAM_Andriod\ORB_slam_test\ORB_SLAM2_Android\build\intermediates\pre-dexed\debug\classes_09bf5bd2b213ce70210f0ad08cf7fcb0d75e0c23.jar" />
+    </item>
+
+</items>

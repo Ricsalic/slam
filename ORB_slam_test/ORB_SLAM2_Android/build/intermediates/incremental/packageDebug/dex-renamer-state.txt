@@ -1,0 +1,4 @@
+#Thu Apr 05 21:40:00 CST 2018
+base.0=E\:\\SLAM_Andriod\\ORB_slam_test\\ORB_SLAM2_Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\SLAM_Andriod\\ORB_slam_test\\ORB_SLAM2_Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
